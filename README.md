@@ -1,3 +1,3 @@
-# Шаблонизатор Summary Forms
+# Job listings with filtering
 
-[DEMO](https://templater-one.vercel.app)
+[DEMO](https://dashboard-react-redux-one.vercel.app)
